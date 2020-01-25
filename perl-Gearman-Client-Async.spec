@@ -5,7 +5,6 @@
 
 %define	pdir	Gearman
 %define	pnam	Client-Async
-%include	/usr/lib/rpm/macros.perl
 Summary:	Gearman::Client::Async - Asynchronous client module for Gearman for Danga::Socket applications
 Name:		perl-Gearman-Client-Async
 Version:	0.94
